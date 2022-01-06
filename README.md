@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 2022 打卡 Flag
+|日期|早起|5000米跑|俯卧撑20|深蹲100|
+|:----:|:----:|:----:|:----:|:----:|
