@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 # 2022 打卡 Flag
 |日期|早起|5000米跑|俯卧撑20|深蹲100|
 |:----:|:----:|:----:|:----:|:----:|
-|2022-01-06|:running:||:dog::dog:|:surfer:|
+|2022-01-06|:running:||:dog::dog:|:surfer::surfer:|
