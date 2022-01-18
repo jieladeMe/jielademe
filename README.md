@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 |2022-01-15|06:50:28||:dog:|:surfer:|
 |2022-01-16|06:55:51||||
 |2022-01-17|06:55:59||:dog:|:surfer:|
-|2022-01-18|失眠……||:dog:|:surfer:|
+|2022-01-18|咖啡失眠……||:dog:|:surfer:|
