@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **jieladeMe/jielademe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# OKR
+- 早起 360 天
+- 5000米跑 50 次
+- 俯卧撑 330 天
+- 深蹲 330 天
 
 # 2022 打卡 Flag
 |日期|早起|5000米跑|俯卧撑20|深蹲100|
@@ -33,5 +37,5 @@ Here are some ideas to get you started:
 |2022-01-17|06:55:59||:dog:|:surfer:|
 |2022-01-18|咖啡失眠……||:dog:|:surfer:|
 |2022-01-19|06:49:13|||:surfer:|
-|2022-01-20|06:16:49||||
+|2022-01-20|06:16:49||:dog:|:surfer:|
 |2022-01-21|06:44:57||:dog:|:surfer:|
